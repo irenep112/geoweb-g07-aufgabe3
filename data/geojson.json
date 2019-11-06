@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Martin",
+          "location": "mein Lieblingsnaherholungsgebiet"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.351518630981445,
+            48.1640244926387
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Irene",
+          "location": "Schönbrunn"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.31083488464355,
+            48.18445835143437
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pini",
+          "location": "schöner Innenhof"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.319761276245117,
+            48.204026007824794
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+        "name": "Zeynep",
+          "location": "toller Turm" },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            16.377525329589844,
+            48.22535882155546
+          ]
+        }
+      }
+    ]
+  }
